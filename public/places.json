@@ -1,0 +1,14 @@
+[
+    {
+        "id": "p1",
+        "image": "../images/p1.jpg"
+    },
+    {
+        "id": "p2",
+        "image": "../images/p2.jpg"
+    },
+    {
+        "id": "p3",
+        "image": "../images/p3.jpg"
+    }
+]
